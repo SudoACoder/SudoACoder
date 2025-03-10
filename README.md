@@ -1,30 +1,33 @@
-# Hi there, I'm Alireza! 👋
+# Hey, I'm Alireza! 👋
 
-Welcome to my GitHub profile! I'm an AI engineer and cybersecurity enthusiast with a keen interest in AGI-inspired AI systems. I am also a Computer Engineering student, constantly exploring the latest advancements in technology and securing digital landscapes.
+I’m an **AI engineer** and **cybersecurity enthusiast** with a knack for tackling tough challenges and building tech that matters. I’m passionate about **networking**, **backend development with Django**, **AI engineering**, and keeping systems secure. Right now, I’m all-in on my **AI startup**.
 
-## 🚀 About Me
+## 🚀 What I’m About
 
-- 🔭 I’m currently working on AGI-inspired AI systems
-- 🌱 I’m currently learning advanced machine learning techniques and ethical hacking
-- 👯 I’m looking to collaborate on AI and cybersecurity projects
-- 💬 Ask me about AI, machine learning, cybersecurity, and Python
-- ⚡ Fun fact: I enjoy participating in CTF (Capture The Flag) challenges
+- 🔭 **Currently:** Pouring my energy into building my AI startup from scratch, aiming to deliver real value.
+- 🌱 **Learning:** Always sharpening my skills in AI innovation and cybersecurity best practices.
+- 👯 **Collaboration:** Keen to team up on projects in AI, cybersecurity, or backend development.
+- 💬 **Let’s Talk:** Love geeking out about AI, Django, networking, or anything tech-related!
 
-## 🛠️ Skills and Technologies
+## 🛠️ Skills & Tools
 
-- **Programming Languages:** Python, JS, C++
-- **Frameworks and Libraries:** Django, TensorFlow, Keras, Scikit-Learn, PyTorch
-- **Cybersecurity:** Network Security, Penetration Testing
-- **Tools:** Git, GitHub, Docker, Kubernetes, VS Code
+- **Languages:** Python, JavaScript, C++  
+- **Frameworks/Libraries:** Django, TensorFlow, PyTorch, Scikit-Learn, Keras  
+- **Cybersecurity:** Network Security, Penetration Testing  
+- **Tech Stack:** Git, GitHub, Docker, Kubernetes, VS Code  
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 ![SudoACoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudoACoder&show_icons=true&theme=radical)
 
-## 🏆 Top Repositories
+## 🏆 Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SudoACoder&repo=note_map&theme=radical)](https://github.com/SudoACoder/note_map)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SudoACoder&repo=CodeXpert&theme=radical)](https://github.com/SudoACoder/CodeXpert)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SudoACoder&repo=note_map&theme=radical)](https://github.com/SudoACoder/note_map)  
+  *Note Map: A smarter way to visualize and organize your notes.*  
 
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SudoACoder&repo=CodeXpert&theme=radical)](https://github.com/SudoACoder/CodeXpert)  
+  *CodeXpert: An AI-powered coding assistant to boost your productivity.*  
 
-Thank you for visiting my profile! Have a great day!
+---
+
+**Thanks for dropping by!** Feel free to reach out if you’d like to collaborate or just chat about tech.
